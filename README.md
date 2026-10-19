@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/main/assets/siagentbuild-hero-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/main/assets/siagentbuild-hero-light.svg"/>
-  <img src="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/main/assets/siagentbuild-hero-light.svg" width="100%" alt="SiAgent — Build Intelligence. Make It Real."/>
-</picture>
+<img src="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/main/assets/siagent-hero.png" width="100%" alt="SiAgent — Build Intelligence. Make It Real."/>
 
 # SiAgent
 
