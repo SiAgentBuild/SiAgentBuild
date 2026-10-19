@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">SiAgentBuild — Building superintelligence</title>
+  <desc id="desc">A silicon-inspired agent network surrounding a central Si core.</desc>
+  <defs>
+    <linearGradient id="beam" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#66E3FF" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#8B7CFF" stop-opacity="0.18"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0%" stop-color="#66E3FF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#66E3FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8C9BB5" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#070B16"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <circle cx="960" cy="150" r="210" fill="url(#halo)"/>
+
+  <g fill="none" stroke="url(#beam)" stroke-width="1.5">
+    <path d="M960 150L830 70L748 132L810 220L960 150L1080 62L1130 190L1000 258L810 220"/>
+    <path d="M830 70L1080 62M1130 190L1000 258M748 132L830 70" stroke-opacity="0.48"/>
+  </g>
+
+  <g fill="#0D1830" stroke-width="2">
+    <circle cx="830" cy="70" r="10" stroke="#66E3FF"/>
+    <circle cx="1080" cy="62" r="8" stroke="#8B7CFF"/>
+    <circle cx="1130" cy="190" r="12" stroke="#66E3FF"/>
+    <circle cx="1000" cy="258" r="8" stroke="#8B7CFF"/>
+    <circle cx="810" cy="220" r="11" stroke="#66E3FF"/>
+    <circle cx="748" cy="132" r="7" stroke="#8B7CFF"/>
+  </g>
+
+  <polygon points="1022,150 991,204 929,204 898,150 929,96 991,96" fill="#0D1830" stroke="#66E3FF" stroke-width="2"/>
+  <polygon points="1006,150 983,190 937,190 914,150 937,110 983,110" fill="none" stroke="#8B7CFF" stroke-opacity="0.55"/>
+  <text x="960" y="166" text-anchor="middle" fill="#EFF7FF" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="600">Si</text>
+
+  <text x="72" y="120" fill="#EFF7FF" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="600" letter-spacing="-1.8">SiAgentBuild</text>
+  <text x="76" y="166" fill="#66E3FF" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="400">Building superintelligence</text>
+  <text x="76" y="207" fill="#8C9BB5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16">Agent systems, memory infrastructure, and tool networks</text>
+  <path d="M76 232H452" stroke="#66E3FF" stroke-width="2"/>
+  <path d="M452 232H566" stroke="#8B7CFF" stroke-width="2"/>
+</svg>

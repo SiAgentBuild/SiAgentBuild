@@ -99,22 +99,22 @@ def build_wall(prs, merged_total, open_total):
         f"| Project | Stars | PR | Status |",
         f"|---------|-------|----|--------|",
     ]
-    for _, _, _, pr, repo, state in rows:
+    for _, stars, _, pr, repo, state in rows:
         name = repo["nameWithOwner"]
         title = pr["title"].replace("|", "\\|")
-        status = "✅ merged" if state == "MERGED" else "🔄 open"
+        status = "✓ Merged" if state == "MERGED" else "○ Open"
         lines.append(
             f"| [{name}](https://github.com/{name}) "
-            f"| ![stars](https://img.shields.io/github/stars/{name}?style=flat&color=gold) "
+            f"| ★ {fmt_stars(stars)} "
             f"| [#{pr['number']} {title}]({pr['url']}) "
             f"| {status} |"
         )
 
     table = "\n".join(lines)
-    badges = f"""<div align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-{merged_total}-brightgreen?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Open%20PRs-{open_total}-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Focus-MCP%20%C2%B7%20Agent%20%C2%B7%20Memory-FF6F00?style=for-the-badge&logo=probot&logoColor=white"/>
+    badges = f"""<div align="left">
+  <img src="https://img.shields.io/badge/Merged-{merged_total}-8957E5?style=flat-square&logo=github" alt="Merged pull requests"/>
+  <img src="https://img.shields.io/badge/Open-{open_total}-238636?style=flat-square&logo=github" alt="Open pull requests"/>
+  <img src="https://img.shields.io/badge/Focus-Agent%20Systems-007F9E?style=flat-square" alt="Focus on agent systems"/>
 </div>"""
 
     return f"""<!-- PR-WALL:START -->
