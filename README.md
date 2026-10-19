@@ -46,16 +46,6 @@ But a new way to make intelligence useful.
 
 These are directions to explore, not limitations on what SiAgent may become.
 
-## Current work
-
-Exploration becomes concrete through systems that can run, integrate, and improve over time.
-
-| Project | Why it matters |
-|---------|----------------|
-| [multi-agent](https://github.com/SiAgentBuild/multi-agent) | Explores asynchronous multi-agent coordination with pluggable MCP tools and AG-UI |
-| [NacosX](https://github.com/SiAgentBuild/NacosX) | Makes Python services easier to register, monitor, and shut down cleanly in long-running infrastructure |
-| [httpxodus](https://github.com/SiAgentBuild/httpxodus) | Treats ecosystem migration as part of building durable intelligence infrastructure |
-
 ## Open source
 
 SiAgent is shaped in the open. These contributions explore the same problems across agent frameworks, memory layers, MCP, and infrastructure.
