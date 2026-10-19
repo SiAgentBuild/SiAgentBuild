@@ -20,7 +20,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 # ---- 可调参数 -------------------------------------------------------------
-GITHUB_USER = "ProgrammerPlus1998"
+GITHUB_USER = "SiAgentBuild"
 MAX_ROWS = 20            # PR 墙最多展示的条数
 STALE_OPEN_DAYS = 180    # open PR 超过 N 天无活动则隐藏
 README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")

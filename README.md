@@ -4,15 +4,15 @@
 <div align="center">
 
 <!-- 动态打字横幅 -->
-<a href="https://github.com/ProgrammerPlus1998">
+<a href="https://github.com/SiAgentBuild">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+%E7%A8%8B%E5%BA%8F%E7%8C%BF%E8%BF%87%E5%AE%B6%E5%AE%B6;Backend+%C2%B7+Python+%C2%B7+AI+Agent+Engineer;Building+Multi-Agent+%2B+MCP+Tooling" alt="Typing SVG" />
 </a>
 
 <!-- 社交徽章 -->
 <p>
-  <a href="https://ProgrammerPlus1998.github.io"><img src="https://img.shields.io/badge/Blog-博客-orange?style=for-the-badge&logo=rss&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ProgrammerPlus1998&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-  <a href="https://github.com/ProgrammerPlus1998?tab=followers"><img src="https://img.shields.io/github/followers/ProgrammerPlus1998?style=for-the-badge&color=blue&logo=github"/></a>
+  <a href="https://SiAgentBuild.github.io"><img src="https://img.shields.io/badge/Blog-博客-orange?style=for-the-badge&logo=rss&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SiAgentBuild&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/SiAgentBuild?tab=followers"><img src="https://img.shields.io/github/followers/SiAgentBuild?style=for-the-badge&color=blue&logo=github"/></a>
 </p>
 
 </div>
@@ -22,7 +22,7 @@
 ### 🧑‍💻 About Me
 
 ```python
-class ProgrammerPlus1998:
+class SiAgentBuild:
     name       = "程序猿过家家"
     title      = "祖传 AI Agent 架构师掌门人（目前第一代）"
     role       = "Backend / AI Agent Engineer"
@@ -104,27 +104,27 @@ class ProgrammerPlus1998:
 
 <!-- 30 天贡献活动曲线:明暗主题自适应 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPlus1998&theme=tokyo-night&hide_border=true&area=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPlus1998&theme=github-light&hide_border=true&area=true"/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPlus1998&theme=github-light&hide_border=true&area=true" alt="Activity Graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SiAgentBuild&theme=tokyo-night&hide_border=true&area=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SiAgentBuild&theme=github-light&hide_border=true&area=true"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiAgentBuild&theme=github-light&hide_border=true&area=true" alt="Activity Graph"/>
 </picture>
 
 <!-- Streak Stats:明暗主题自适应 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ProgrammerPlus1998&theme=tokyonight&hide_border=true&background=0D1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ProgrammerPlus1998&theme=default&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=ProgrammerPlus1998&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SiAgentBuild&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SiAgentBuild&theme=default&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=SiAgentBuild&theme=default&hide_border=true" alt="GitHub Streak"/>
 </picture>
 
 <!-- 贪吃蛇:由 GitHub Actions 定时生成,自动适配明暗主题 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/output/github-contribution-grid-snake.svg" width="98%" alt="Snake animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/output/github-contribution-grid-snake.svg" width="98%" alt="Snake animation"/>
 </picture>
 
 <!-- 数据面板:由 lowlighter/metrics Action 每日生成(3D 提交日历 / 语言分布 / 编码习惯) -->
-<img src="https://raw.githubusercontent.com/ProgrammerPlus1998/ProgrammerPlus1998/main/github-metrics.svg" width="98%" alt="Metrics"/>
+<img src="https://raw.githubusercontent.com/SiAgentBuild/SiAgentBuild/main/github-metrics.svg" width="98%" alt="Metrics"/>
 
 </div>
 
