@@ -120,9 +120,16 @@ We build, test, learn, and keep moving.
 
 <div align="center">
 
-### The future is not just something to predict.
+# Build Agents. Build Superintelligence.
 
-### It's something to build.
+Agents are the building blocks.<br/>
+Intelligence is the journey.<br/>
+Superintelligence is the horizon.
+
+Explore how agents can reason, collaborate, and act,<br/>
+building the systems that move intelligence forward.
+
+The journey starts with what gets built today.
 
 **[SiAgent.build](https://siagent.build)**
 
