@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">SiAgentBuild — Systems, not demos.</title>
+  <title id="title">SiAgent — Build Intelligence. Make It Real.</title>
   <desc id="desc">A silicon-inspired agent network surrounding a central Si core.</desc>
   <defs>
     <linearGradient id="beam" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -37,9 +37,9 @@
   <polygon points="1006,150 983,190 937,190 914,150 937,110 983,110" fill="none" stroke="#6046D8" stroke-opacity="0.55"/>
   <text x="960" y="166" text-anchor="middle" fill="#0D1830" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="600">Si</text>
 
-  <text x="72" y="120" fill="#0D1830" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="600" letter-spacing="-1.8">SiAgentBuild</text>
-  <text x="76" y="166" fill="#007F9E" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="400">Systems, not demos.</text>
-  <text x="76" y="207" fill="#53657E" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16">Software for agents that collaborate, remember, and act.</text>
+  <text x="72" y="120" fill="#0D1830" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="600" letter-spacing="-1.8">SiAgent</text>
+  <text x="76" y="166" fill="#007F9E" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="400">Build Intelligence. Make It Real.</text>
+  <text x="76" y="207" fill="#53657E" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16">An independent exploration of superintelligence and AI agents.</text>
   <path d="M76 232H452" stroke="#007F9E" stroke-width="2"/>
   <path d="M452 232H566" stroke="#6046D8" stroke-width="2"/>
 </svg>
