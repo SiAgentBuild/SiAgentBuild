@@ -52,30 +52,30 @@ SiAgent is shaped in the open. These contributions explore the same problems acr
 
 | Project | Stars | PR | Status |
 |---------|-------|----|--------|
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | ★ 52,567 | [#22557 feat: migrate llama-index-tools-mcp to mcp 2.x](https://github.com/run-llama/llama_index/pull/22557) | ✓ Merged |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#9269 feat: migrate MCP client and AgentOS server to mcp 2.x](https://github.com/agno-agi/agno/pull/9269) | ✓ Merged |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#8956 fix: add team_id filter to get_team_history for nested team support](https://github.com/agno-agi/agno/pull/8956) | ✓ Merged |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#8726 fix: prevent path traversal in FileSystemKnowledge.get_file (#8624)](https://github.com/agno-agi/agno/pull/8726) | ✓ Merged |
-| [Finb/Bark](https://github.com/Finb/Bark) | ★ 9,327 | [#377 新增推送 URL 和 Key 二维码展示](https://github.com/Finb/Bark/pull/377) | ✓ Merged |
-| [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) | ★ 3,074 | [#954 feat: use json-repair for LLM output parsing](https://github.com/MemMachine/MemMachine/pull/954) | ✓ Merged |
-| [ormar-orm/ormar](https://github.com/ormar-orm/ormar) | ★ 1,801 | [#297 add：SmallInteger()](https://github.com/ormar-orm/ormar/pull/297) | ✓ Merged |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | ★ 52,669 | [#22557 feat: migrate llama-index-tools-mcp to mcp 2.x](https://github.com/run-llama/llama_index/pull/22557) | ✓ Merged |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#9269 feat: migrate MCP client and AgentOS server to mcp 2.x](https://github.com/agno-agi/agno/pull/9269) | ✓ Merged |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#8956 fix: add team_id filter to get_team_history for nested team support](https://github.com/agno-agi/agno/pull/8956) | ✓ Merged |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#8726 fix: prevent path traversal in FileSystemKnowledge.get_file (#8624)](https://github.com/agno-agi/agno/pull/8726) | ✓ Merged |
+| [Finb/Bark](https://github.com/Finb/Bark) | ★ 9,381 | [#377 新增推送 URL 和 Key 二维码展示](https://github.com/Finb/Bark/pull/377) | ✓ Merged |
+| [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine) | ★ 3,076 | [#954 feat: use json-repair for LLM output parsing](https://github.com/MemMachine/MemMachine/pull/954) | ✓ Merged |
+| [ormar-orm/ormar](https://github.com/ormar-orm/ormar) | ★ 1,799 | [#297 add：SmallInteger()](https://github.com/ormar-orm/ormar/pull/297) | ✓ Merged |
 | [tortoise/aerich](https://github.com/tortoise/aerich) | ★ 1,083 | [#187 Enhancement: Inspectdb adds data types and exception handling. Models can also be generated if there are types that cannot be handled.](https://github.com/tortoise/aerich/pull/187) | ✓ Merged |
-| [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | ★ 677 | [#183 New: Global middleware](https://github.com/ThinkInAIXYZ/go-mcp/pull/183) | ✓ Merged |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ★ 187,649 | [#14271 refactor(backend): migrate from httpx to httpx2](https://github.com/Significant-Gravitas/AutoGPT/pull/14271) | ○ Open |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | ★ 61,479 | [#8020 fix(autogen-ext): migrate MCP integration to mcp 2.x SDK](https://github.com/microsoft/autogen/pull/8020) | ○ Open |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#10078 feat: add X-Accel-Buffering header to SSE streaming responses](https://github.com/agno-agi/agno/pull/10078) | ○ Open |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#10021 feat: migrate core HTTP client from httpx to httpx2](https://github.com/agno-agi/agno/pull/10021) | ○ Open |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#9893 feat: support background execution and reattach in the AG-UI interface](https://github.com/agno-agi/agno/pull/9893) | ○ Open |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#9886 fix: reject duplicate caller-supplied run_id on AgentOS run creation](https://github.com/agno-agi/agno/pull/9886) | ○ Open |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#9544 feat: move dynamic context (datetime/location) from system message to trailing message](https://github.com/agno-agi/agno/pull/9544) | ○ Open |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#9540 fix: emit reasoning delta and completed events for native model reasoning in agent and team streaming](https://github.com/agno-agi/agno/pull/9540) | ○ Open |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,806 | [#9253 feat: surface team member activity in AG-UI via ACTIVITY_SNAPSHOT](https://github.com/agno-agi/agno/pull/9253) | ○ Open |
-| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | ★ 39,546 | [#3931 [HTTPXodus] migrate httpx to httpx2 (hard switch; closes #3929)](https://github.com/lm-sys/FastChat/pull/3931) | ○ Open |
-| [chroma-core/chroma](https://github.com/chroma-core/chroma) | ★ 29,531 | [#7677 [HTTPXodus] migrate httpx to httpx2 (hard switch)](https://github.com/chroma-core/chroma/pull/7677) | ○ Open |
+| [ThinkInAIXYZ/go-mcp](https://github.com/ThinkInAIXYZ/go-mcp) | ★ 679 | [#183 New: Global middleware](https://github.com/ThinkInAIXYZ/go-mcp/pull/183) | ✓ Merged |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ★ 187,757 | [#14271 refactor(backend): migrate from httpx to httpx2](https://github.com/Significant-Gravitas/AutoGPT/pull/14271) | ○ Open |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | ★ 61,572 | [#8020 fix(autogen-ext): migrate MCP integration to mcp 2.x SDK](https://github.com/microsoft/autogen/pull/8020) | ○ Open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#10078 feat: add X-Accel-Buffering header to SSE streaming responses](https://github.com/agno-agi/agno/pull/10078) | ○ Open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#10021 feat: migrate core HTTP client from httpx to httpx2](https://github.com/agno-agi/agno/pull/10021) | ○ Open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#9893 feat: support background execution and reattach in the AG-UI interface](https://github.com/agno-agi/agno/pull/9893) | ○ Open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#9886 fix: reject duplicate caller-supplied run_id on AgentOS run creation](https://github.com/agno-agi/agno/pull/9886) | ○ Open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#9544 feat: move dynamic context (datetime/location) from system message to trailing message](https://github.com/agno-agi/agno/pull/9544) | ○ Open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#9540 fix: emit reasoning delta and completed events for native model reasoning in agent and team streaming](https://github.com/agno-agi/agno/pull/9540) | ○ Open |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | ★ 42,899 | [#9253 feat: surface team member activity in AG-UI via ACTIVITY_SNAPSHOT](https://github.com/agno-agi/agno/pull/9253) | ○ Open |
+| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | ★ 39,551 | [#3931 [HTTPXodus] migrate httpx to httpx2 (hard switch; closes #3929)](https://github.com/lm-sys/FastChat/pull/3931) | ○ Open |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | ★ 29,583 | [#7677 [HTTPXodus] migrate httpx to httpx2 (hard switch)](https://github.com/chroma-core/chroma/pull/7677) | ○ Open |
 
 <div align="left">
   <img src="https://img.shields.io/badge/Merged-9-8957E5?style=flat-square&logo=github" alt="Merged pull requests"/>
-  <img src="https://img.shields.io/badge/Open-21-238636?style=flat-square&logo=github" alt="Open pull requests"/>
+  <img src="https://img.shields.io/badge/Open-20-238636?style=flat-square&logo=github" alt="Open pull requests"/>
   <img src="https://img.shields.io/badge/Focus-Agent%20Systems-007F9E?style=flat-square" alt="Focus on agent systems"/>
 </div>
 <!-- PR-WALL:END -->
